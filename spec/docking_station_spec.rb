@@ -1,4 +1,4 @@
-require 'boris_bikes.rb'
+require 'docking_station.rb'
 
 describe DockingStation do
   it "will release a bike when called" do
